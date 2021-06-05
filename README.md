@@ -1,4 +1,5 @@
-# KoreanSpellErrors
+# KoreanSpellingErrors
+
 ## 1. 주제
 - 표의주의에 이끌린 표기 오류의 굴절 양상 분석 ― ‘그렇하다’, ‘어떻하다’, ‘옳바르다’를 중심으로
 
