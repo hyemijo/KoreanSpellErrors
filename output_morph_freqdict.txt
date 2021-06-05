@@ -1,0 +1,79 @@
+========error
+word token num 19
+word type num 12
+morph token num 40
+mean morph num 2.11
+mean form len 3.84
+X num 1
+EP num 1
+EF num 1
+EC num 10
+ET num 4
+J num 4
+
+word token num 731
+word type num 78
+morph token num 1643
+mean morph num 2.25
+mean form len 4.06
+X num 1
+EP num 39
+EF num 247
+EC num 388
+ET num 120
+J num 103
+
+word token num 330
+word type num 13
+morph token num 664
+mean morph num 2.01
+mean form len 3.31
+X num 0
+EP num 1
+EF num 10
+EC num 81
+ET num 240
+J num 2
+
+
+
+===========nonerror
+token num 6399
+type num 150
+morph token num 13160
+mean morph num 2.06
+mean form len 3.4
+X num 0
+E num 6641
+EP num 223
+EF num 397
+EC num 1199
+ET num 4822
+J num 109
+
+token num 193
+type num 41
+morph token num 455
+mean morph num 2.36
+mean form len 4.11
+X num 0
+E num 200
+EP num 8
+EF num 73
+EC num 90
+ET num 29
+J num 54
+
+token num 7535
+type num 49
+morph token num 15145
+mean morph num 2.01
+mean form len 3.25
+X num 0
+E num 7540
+EP num 4
+EF num 98
+EC num 1597
+ET num 5841
+J num 64
+
